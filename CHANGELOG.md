@@ -15,6 +15,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ([`#3172`](https://github.com/polybar/polybar/pull/3172))
 by [@stringlapse](https://github.com/stringlapse).
 - Added tray-reversed = false option to tray module. Makes tray icons order reversed. ([`#3181`](https://github.com/polybar/polybar/discussions/3181))
+- `internal/alsa`: `reverse-scroll` option like it exists for `internal/pulseaudio` already ([`#???`](https://github.com/polybar/polybar/pull/???))
 
 ### Changed
 - `internal/pulseaudio`: Volume adjustments now preserve balance instead of volume ratios ([`#3123`](https://github.com/polybar/polybar/issues/3123), [`#3169`](https://github.com/polybar/polybar/pull/3169)) by [`@parmort`](https://github.com/parmort)
